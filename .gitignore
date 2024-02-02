@@ -1,0 +1,12 @@
+
+*.ipynb
+modelos/data/cifar-10-batches-py/data_batch_1
+modelos/data/cifar-10-batches-py/data_batch_2
+modelos/data/cifar-10-batches-py/data_batch_3
+modelos/data/cifar-10-batches-py/data_batch_4
+modelos/data/cifar-10-batches-py/data_batch_5
+modelos/data/cifar-10-batches-py/readme.html
+modelos/data/cifar-10-python.tar.gz
+modelos/data/cifar-10-batches-py/test_batch
+modelos/data/cifar-10-batches-py/batches.meta
+modelos/__pycache__/data_extraction_functions.cpython-39.pyc
